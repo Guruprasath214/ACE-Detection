@@ -1,0 +1,45 @@
+text,label,language,category,sarcasm_type,emoji_context
+"Oh wow, another meeting... because I don't have enough unproductive time in my day 🙄",4,en,mocking,heavy_sarcasm,eye_roll
+"Sure, because nothing says 'team building' like mandatory fun activities 😒",4,en,mocking,heavy_sarcasm,unamused
+"Oh great, more emails to ignore! Just what I needed today 📧",4,en,mocking,light_sarcasm,email_emoji
+"Wow, you're so brave for eating that salad. True hero material 🥗",4,en,mocking,heavy_sarcasm,food_emoji
+"Thanks for the constructive criticism... said no one ever 💭",4,en,mocking,heavy_sarcasm,thought_balloon
+"Oh perfect, another software update. Because my computer wasn't slow enough already 💻",4,en,mocking,heavy_sarcasm,computer_emoji
+"Sure, let's add more meetings to solve the problem of too many meetings 🤝",4,en,mocking,heavy_sarcasm,handshake
+"Wow, such an original idea. I'm sure no one has ever thought of that before 💡",4,en,mocking,heavy_sarcasm,lightbulb
+"Oh joy, traffic again. My favorite part of the commute 🚗",4,en,mocking,heavy_sarcasm,car
+"Thanks for holding the door... oh wait, you didn't. How thoughtful of you 🚪",4,en,mocking,heavy_sarcasm,door
+"Sure, because pineapple on pizza is totally normal and not weird at all 🍍",4,en,mocking,heavy_sarcasm,pineapple
+"Oh great, more ads. Because I wasn't already being marketed to enough 📺",4,en,mocking,light_sarcasm,tv
+"Wow, you're so talented at procrastination. Truly impressive ⏰",4,en,mocking,heavy_sarcasm,clock
+"Sure, let's solve world hunger by posting inspirational quotes 📝",4,en,mocking,heavy_sarcasm,memo
+"Oh perfect, another diet trend. Because the last 50 worked so well 🥦",4,en,mocking,heavy_sarcasm,broccoli
+"Wow, such a deep conversation. I'm really learning a lot here 🧠",4,en,mocking,heavy_sarcasm,brain
+"Sure, because nothing fixes a bad day like retail therapy 🛍️",4,en,mocking,light_sarcasm,shopping_bags
+"Oh great, more notifications. Because I wasn't distracted enough already 📱",4,en,mocking,heavy_sarcasm,mobile_phone
+"Wow, you're so good at video games. Professional level skill right there 🎮",4,en,mocking,heavy_sarcasm,video_game
+"Sure, let's solve climate change by using less plastic straws 🥤",4,en,mocking,heavy_sarcasm,straw
+"Oh perfect, another self-help book. Because I wasn't motivated enough already 📚",4,en,mocking,heavy_sarcasm,books
+"Wow, such a creative username. I'm sure it took hours to come up with 💭",4,en,mocking,heavy_sarcasm,thought_balloon
+"Sure, because avocado toast is totally affordable for everyone 🥑",4,en,mocking,heavy_sarcasm,avocado
+"Oh great, more social media influencers. Because I needed more fake lifestyles in my feed 📸",4,en,mocking,heavy_sarcasm,camera
+"Wow, you're so environmentally conscious with that reusable bag 🛍️",4,en,mocking,light_sarcasm,shopping_bag
+"Sure, let's fix politics by arguing on social media 🇺🇸",4,en,mocking,heavy_sarcasm,flag
+"Oh perfect, another cryptocurrency. Because I wasn't gambling enough already 💰",4,en,mocking,heavy_sarcasm,money
+"Wow, such a healthy lifestyle. I'm inspired by your kale smoothies 🥬",4,en,mocking,heavy_sarcasm,leafy_green
+"Sure, because meditation apps will solve all my problems 🧘",4,en,mocking,light_sarcasm,person_meditation
+"Oh great, more fitness influencers. Because I wasn't insecure enough about my body already 💪",4,en,mocking,heavy_sarcasm,muscle
+"Wow, you're so cultured with your expensive coffee ☕",4,en,mocking,heavy_sarcasm,coffee
+"Sure, let's solve inequality by buying fair trade products 🛒",4,en,mocking,heavy_sarcasm,shopping_cart
+"Oh perfect, another productivity hack. Because I wasn't overwhelmed enough already 📋",4,en,mocking,heavy_sarcasm,clipboard
+"Wow, such an amazing concert. I'm sure the ticket price was worth it 🎵",4,en,mocking,heavy_sarcasm,musical_note
+"Sure, because essential oils will cure everything 🕯️",4,en,mocking,light_sarcasm,candle
+"Oh great, more dating apps. Because I wasn't lonely enough already 💔",4,en,mocking,heavy_sarcasm,broken_heart
+"Wow, you're so adventurous with your airplane food ✈️",4,en,mocking,heavy_sarcasm,airplane
+"Sure, let's solve mental health with inspirational memes 🖼️",4,en,mocking,heavy_sarcasm,frame_photo
+"Oh perfect, another diet. Because self-hatred wasn't enough motivation already ⚖️",4,en,mocking,heavy_sarcasm,balance_scale
+"Wow, such a luxury vacation. I'm sure it was totally worth going into debt for 🏖️",4,en,mocking,heavy_sarcasm,beach
+"Sure, because yoga pants solve everything 🧘‍♀️",4,en,mocking,light_sarcasm,woman_meditation
+"Oh great, more celebrity gossip. Because I wasn't shallow enough already 👑",4,en,mocking,heavy_sarcasm,crown
+"Wow, you're so spiritual with your crystal collection 🔮",4,en,mocking,heavy_sarcasm,crystal_ball
+"Sure, let's solve racism by posting black squares 🖤",4,en,mocking,heavy_sarcasm,black_heart

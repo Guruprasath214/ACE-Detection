@@ -1,0 +1,98 @@
+# ACE Detection Framework Configuration
+
+# Model Configuration
+models:
+  bert:
+    model_name: "bert-base-uncased"
+    max_length: 512
+    batch_size: 16
+    learning_rate: 2e-5
+    num_epochs: 3
+    warmup_steps: 500
+
+  cnn:
+    embedding_dim: 300
+    num_filters: 100
+    filter_sizes: [3, 4, 5]
+    dropout_rate: 0.5
+    learning_rate: 0.001
+    num_epochs: 10
+
+  svm:
+    kernel: "rbf"
+    C: 1.0
+    gamma: "scale"
+    max_features: 5000
+    ngram_range: [1, 2]
+
+  deep_emoji:
+    model_name: "cardiffnlp/twitter-roberta-base-emoji"
+    max_length: 128
+
+  emotion:
+    model_name: "j-hartmann/emotion-english-distilroberta-base"
+    confidence_threshold: 0.7
+
+  ensemble:
+    weights:
+      bert: 0.15
+      cnn: 0.15
+      svm: 0.15
+      deep_emoji: 0.15
+      emotion: 0.15
+      contextual: 0.25  # Increased weight for enhanced semantic understanding
+    decision_threshold: 0.5  # Adjusted for multi-class
+    hidden_dim: 128  # Increased for better capacity
+    dropout_rate: 0.3
+    num_classes: 7  # Multi-class: normal, bullying, harassment, women's_harassment, mocking, threats, hate_speech
+    use_attention: true  # Enable attention mechanism
+
+# Data Processing
+data:
+  max_sequence_length: 512
+  min_text_length: 3
+  max_text_length: 1000
+  remove_urls: true
+  remove_mentions: true
+  remove_hashtags: false
+  normalize_emojis: true
+  handle_slang: true
+
+# API Configuration
+api:
+  host: "0.0.0.0"
+  port: 8000
+  workers: 4
+  max_request_size: 10485760  # 10MB
+  timeout: 30
+
+# Logging
+logging:
+  level: "INFO"
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  file: "logs/ace_detection.log"
+
+# Deployment
+deployment:
+  environment: "development"  # development, staging, production
+  debug: true
+  reload: true
+
+# Monitoring
+monitoring:
+  enable_metrics: true
+  metrics_port: 9090
+  health_check_interval: 30
+
+# Security
+security:
+  enable_cors: true
+  allowed_origins: ["*"]
+  rate_limit: 100  # requests per minute
+
+# Model Paths
+paths:
+  data_dir: "data"
+  models_dir: "models/saved"
+  assets_dir: "assets"
+  logs_dir: "logs"

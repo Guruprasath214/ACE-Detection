@@ -1,0 +1,134 @@
+{
+  "harassment_indicators": {
+    "direct_threats": [
+      "kill yourself", "kys", "die", "suicide", "end yourself", "off yourself",
+      "jump off", "hang yourself", "shoot yourself", "cut yourself"
+    ],
+    "sexual_harassment": [
+      "slut", "whore", "bitch", "hoe", "thot", "prostitute", "hooker",
+      "easy", "loose", "promiscuous", "skank", "tramp", "hussy","fuck"
+    ],
+    "body_shaming": [
+      "fat", "ugly", "disgusting", "gross", "hideous", "repulsive",
+      "pig", "cow", "whale", "elephant", "beast", "monster"
+    ],
+    "intimidation": [
+      "you're nothing", "you're worthless", "you're pathetic", "you're useless",
+      "nobody likes you", "everyone hates you", "you have no friends",
+      "you're alone", "no one cares", "you're invisible"
+    ],
+    "cyberbullying": [
+      "loser", "freak", "weirdo", "creep", "stalker", "psycho",
+      "mental", "crazy", "insane", "retard", "idiot", "moron"
+    ]
+  },
+  "escalation_indicators": {
+    "repetition": ["again", "still", "continues", "persistent", "ongoing"],
+    "intensity": ["worse", "escalating", "increasing", "intense", "extreme"],
+    "threats": ["next time", "wait and see", "you'll see", "mark my words"]
+  },
+  "isolation_tactics": {
+    "social_exclusion": [
+      "nobody likes you", "everyone hates you", "you have no friends",
+      "you're alone", "no one cares", "you're invisible", "left out"
+    ],
+    "group_targeting": [
+      "everyone knows", "everyone thinks", "everyone says", "we all know"
+    ]
+  },
+  "thanglish_harassment_indicators": {
+    "insults": [
+      "punda", "pundam", "madhiri idiot", "thangam", "kundi", "kundi magan",
+      "thangachi", "thangai", "madhiri", "poda", "podi", "podi magan",
+      "thendi", "thendi magan", "thendi ponnu", "madhiri fool", "madhiri stupid",
+      "thangam idiot", "thangachi bitch", "kundi bitch", "punda bitch"
+    ],
+    "threats": [
+      "kill panniduven", "kill pannu", "die panniduven", "die pannu",
+      "suicide pannu", "end panniduven", "hang pannu", "cut panniduven"
+    ],
+    "sexual_harassment": [
+      "slut", "whore", "bitch", "hoe", "thot", "easy", "loose",
+      "promiscuous", "skank", "tramp", "hussy", "fuck", "punda", "kundi"
+    ],
+    "body_shaming": [
+      "fat", "ugly", "disgusting", "gross", "hideous", "repulsive",
+      "pig", "cow", "whale", "elephant", "beast", "monster", "thendi"
+    ],
+    "cyberbullying": [
+      "loser", "freak", "weirdo", "creep", "stalker", "psycho",
+      "mental", "crazy", "insane", "idiot", "moron", "dumb",
+      "punda", "madhiri idiot", "thangam fool"
+    ]
+  },
+  "manglish_harassment_indicators": {
+    "insults": [
+      "poda", "podi", "podi mone", "mone", "mone mone", "thendi", "thendi mone",
+      "thendi ponnu", "punda", "pundam", "kundi", "kundi mone", "madhiri idiot",
+      "madhiri fool", "madhiri stupid", "thangam idiot", "thangachi bitch"
+    ],
+    "threats": [
+      "kill cheyyu", "kill cheyyum", "die cheyyu", "die cheyyum",
+      "suicide cheyyu", "end cheyyu", "hang cheyyu", "cut cheyyu"
+    ],
+    "sexual_harassment": [
+      "slut", "whore", "bitch", "hoe", "thot", "easy", "loose",
+      "promiscuous", "skank", "tramp", "hussy", "fuck", "punda", "kundi"
+    ],
+    "body_shaming": [
+      "fat", "ugly", "disgusting", "gross", "hideous", "repulsive",
+      "pig", "cow", "whale", "elephant", "beast", "monster", "thendi"
+    ],
+    "cyberbullying": [
+      "loser", "freak", "weirdo", "creep", "stalker", "psycho",
+      "mental", "crazy", "insane", "idiot", "moron", "dumb",
+      "mone", "poda mone", "thendi mone"
+    ]
+  },
+  "tamil_harassment_indicators": {
+    "insults": [
+      "முட்டாள்", "குப்பை", "பொய்யன்", "துரோகி", "ஏமாற்றுநர்", "மண்டன்",
+      "குப்பை மனிதன்", "பொய்யன்", "துரோகி", "ஏமாற்றி", "முட்டாள் போல",
+      "குப்பை போல", "பொய்யன் போல", "துரோகி போல"
+    ],
+    "threats": [
+      "சாக", "சாகப் போ", "உன் வாழ்க்கை முடிந்தது", "நீ இறந்து போ", "தற்கொலை செய்",
+      "தூக்கு போடு", "வெட்டு போடு", "கொல்லு", "கொல்லப் போகிறேன்"
+    ],
+    "sexual_harassment": [
+      "வேசி", "பொட்டை", "கெட்டவள்", "இலகுவானவள்", "கலப்பு", "குப்பை",
+      "பொட்டை", "கெட்டவள்", "இலகுவானவள்", "கலப்பு", "குப்பை"
+    ],
+    "body_shaming": [
+      "கொழுப்பு", "அருவருப்பான", "குப்பை", "பன்றி", "பசு", "யானை",
+      "மிருகம்", "பொருள்", "கொழுப்பு போல", "அருவருப்பான போல"
+    ],
+    "cyberbullying": [
+      "தோல்வி", "பைத்தியம்", "பைத்தியக்காரன்", "முட்டாள்", "மண்டன்", "முட்டாள் போல",
+      "பைத்தியம் போல", "பைத்தியக்காரன் போல"
+    ]
+  },
+  "malayalam_harassment_indicators": {
+    "insults": [
+      "മണ്ടൻ", "ചവറ്", "കള്ളൻ", "ദ്രോഹി", "വഞ്ചകൻ", "മണ്ടൻ",
+      "ചവറ് മനുഷ്യൻ", "കള്ളൻ", "ദ്രോഹി", "വഞ്ചകൻ", "മണ്ടൻ പോലെ",
+      "ചവറ് പോലെ", "കള്ളൻ പോലെ", "ദ്രോഹി പോലെ"
+    ],
+    "threats": [
+      "ചാവുക", "ചാവുക", "നിന്റെ ജീവിതം അവസാനിച്ചു", "നീ മരിച്ചു", "ആത്മഹത്യ ചെയ്യുക",
+      "തൂക്കം കയറുക", "മുറിക്കുക", "കൊല്ലുക", "കൊല്ലും"
+    ],
+    "sexual_harassment": [
+      "വേശ്യ", "ബിറ്റ്ച്", "കെട്ടവൾ", "ഇളകിയവൾ", "കലർപ്പ്", "ചവറ്",
+      "ബിറ്റ്ച്", "കെട്ടവൾ", "ഇളകിയവൾ", "കലർപ്പ്", "ചവറ്"
+    ],
+    "body_shaming": [
+      "കൊഴുപ്പ്", "അരുവരുപ്പ്", "ചവറ്", "പന്നി", "പശു", "ആന",
+      "മൃഗം", "ഭൂതം", "കൊഴുപ്പ് പോലെ", "അരുവരുപ്പ് പോലെ"
+    ],
+    "cyberbullying": [
+      "പരാജയം", "പിശാച്", "പിശാച്", "മണ്ടൻ", "മണ്ടൻ", "പരാജയം പോലെ",
+      "പിശാച് പോലെ", "പിശാച് പോലെ"
+    ]
+  }
+}

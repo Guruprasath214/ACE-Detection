@@ -1,0 +1,131 @@
+text,label,language,category,sarcasm_type,emoji_context,emotion,emoji_sentiment,sarcasm_level
+"Hey everyone, having a great day! ☀️",0,en,normal,,,,,
+"This weather is amazing, perfect for a walk!",0,en,normal,,,,,
+"Just finished an awesome book, highly recommend it!",0,en,normal,,,,,
+Love spending time with family and friends 😊,0,en,normal,,,,,
+"Great workout session today, feeling energized!",0,en,normal,,,,,
+"You are such an idiot, can't believe you said that!",1,en,bullying,,,,,
+Why are you so stupid? Everyone knows you're wrong.,1,en,bullying,,,,,
+You're worthless and nobody likes you.,1,en,bullying,,,,,
+"Stop being such a loser, get a life!",1,en,bullying,,,,,
+"You're pathetic, just give up already.",1,en,bullying,,,,,
+"Hey sexy, want to meet up tonight? 😉",2,en,sexual_harassment,,,,,
+"Your body is so hot, I can't stop staring.",2,en,sexual_harassment,,,,,
+"Come on baby, let's have some fun together.",2,en,sexual_harassment,,,,,
+"You're looking fine today, want my number?",2,en,sexual_harassment,,,,,
+"Damn girl, those curves are killing me!",2,en,sexual_harassment,,,,,
+"Women belong in the kitchen, not in leadership roles.",3,en,women_harassment,,,,,
+You're just a dumb blonde stereotype.,3,en,women_harassment,,,,,
+"Girls can't drive, that's why accidents happen.",3,en,women_harassment,,,,,
+She's too emotional to make rational decisions.,3,en,women_harassment,,,,,
+Women are too weak for real work.,3,en,women_harassment,,,,,
+"Oh sure, because you're so much better than everyone else 🙄",4,en,mocking,,,,,
+"Wow, what an original idea... said no one ever.",4,en,mocking,,,,,
+"You're so smart, you figured that out all by yourself!",4,en,mocking,,,,,
+"Congratulations on your achievement... oh wait, you didn't achieve anything.",4,en,mocking,,,,,
+"Keep talking, maybe someday you'll say something intelligent.",4,en,mocking,,,,,
+I'll break your legs if you don't shut up!,5,en,threats,,,,,
+"You better watch your back, I'm coming for you.",5,en,threats,,,,,
+One more word and you'll regret it.,5,en,threats,,,,,
+I'm going to make you pay for what you did.,5,en,threats,,,,,
+"You won't be safe anywhere, I'll find you.",5,en,threats,,,,,
+"I hate all immigrants, they should go back where they came from!",6,en,hate_speech,,,,,
+Those people are inferior and don't belong here.,6,en,hate_speech,,,,,
+Religious fanatics are destroying our society.,6,en,hate_speech,,,,,
+Racial minorities are the cause of all our problems.,6,en,hate_speech,,,,,
+LGBTQ+ people are unnatural and wrong.,6,en,hate_speech,,,,,
+"Oh wow, another meeting... because I don't have enough unproductive time in my day 🙄",4,en,mocking,heavy_sarcasm,eye_roll,,,
+"Sure, because nothing says 'team building' like mandatory fun activities 😒",4,en,mocking,heavy_sarcasm,unamused,,,
+"Oh great, more emails to ignore! Just what I needed today 📧",4,en,mocking,light_sarcasm,email_emoji,,,
+"Wow, you're so brave for eating that salad. True hero material 🥗",4,en,mocking,heavy_sarcasm,food_emoji,,,
+Thanks for the constructive criticism... said no one ever 💭,4,en,mocking,heavy_sarcasm,thought_balloon,,,
+"Oh perfect, another software update. Because my computer wasn't slow enough already 💻",4,en,mocking,heavy_sarcasm,computer_emoji,,,
+"Sure, let's add more meetings to solve the problem of too many meetings 🤝",4,en,mocking,heavy_sarcasm,handshake,,,
+"Wow, such an original idea. I'm sure no one has ever thought of that before 💡",4,en,mocking,heavy_sarcasm,lightbulb,,,
+"Oh joy, traffic again. My favorite part of the commute 🚗",4,en,mocking,heavy_sarcasm,car,,,
+"Thanks for holding the door... oh wait, you didn't. How thoughtful of you 🚪",4,en,mocking,heavy_sarcasm,door,,,
+"Sure, because pineapple on pizza is totally normal and not weird at all 🍍",4,en,mocking,heavy_sarcasm,pineapple,,,
+"Oh great, more ads. Because I wasn't already being marketed to enough 📺",4,en,mocking,light_sarcasm,tv,,,
+"Wow, you're so talented at procrastination. Truly impressive ⏰",4,en,mocking,heavy_sarcasm,clock,,,
+"Sure, let's solve world hunger by posting inspirational quotes 📝",4,en,mocking,heavy_sarcasm,memo,,,
+"Oh perfect, another diet trend. Because the last 50 worked so well 🥦",4,en,mocking,heavy_sarcasm,broccoli,,,
+"Wow, such a deep conversation. I'm really learning a lot here 🧠",4,en,mocking,heavy_sarcasm,brain,,,
+"Sure, because nothing fixes a bad day like retail therapy 🛍️",4,en,mocking,light_sarcasm,shopping_bags,,,
+"Oh great, more notifications. Because I wasn't distracted enough already 📱",4,en,mocking,heavy_sarcasm,mobile_phone,,,
+"Wow, you're so good at video games. Professional level skill right there 🎮",4,en,mocking,heavy_sarcasm,video_game,,,
+"Sure, let's solve climate change by using less plastic straws 🥤",4,en,mocking,heavy_sarcasm,straw,,,
+"Oh perfect, another self-help book. Because I wasn't motivated enough already 📚",4,en,mocking,heavy_sarcasm,books,,,
+"Wow, such a creative username. I'm sure it took hours to come up with 💭",4,en,mocking,heavy_sarcasm,thought_balloon,,,
+"Sure, because avocado toast is totally affordable for everyone 🥑",4,en,mocking,heavy_sarcasm,avocado,,,
+"Oh great, more social media influencers. Because I needed more fake lifestyles in my feed 📸",4,en,mocking,heavy_sarcasm,camera,,,
+"Wow, you're so environmentally conscious with that reusable bag 🛍️",4,en,mocking,light_sarcasm,shopping_bag,,,
+"Sure, let's fix politics by arguing on social media 🇺🇸",4,en,mocking,heavy_sarcasm,flag,,,
+"Oh perfect, another cryptocurrency. Because I wasn't gambling enough already 💰",4,en,mocking,heavy_sarcasm,money,,,
+"Wow, such a healthy lifestyle. I'm inspired by your kale smoothies 🥬",4,en,mocking,heavy_sarcasm,leafy_green,,,
+"Sure, because meditation apps will solve all my problems 🧘",4,en,mocking,light_sarcasm,person_meditation,,,
+"Oh great, more fitness influencers. Because I wasn't insecure enough about my body already 💪",4,en,mocking,heavy_sarcasm,muscle,,,
+"Wow, you're so cultured with your expensive coffee ☕",4,en,mocking,heavy_sarcasm,coffee,,,
+"Sure, let's solve inequality by buying fair trade products 🛒",4,en,mocking,heavy_sarcasm,shopping_cart,,,
+"Oh perfect, another productivity hack. Because I wasn't overwhelmed enough already 📋",4,en,mocking,heavy_sarcasm,clipboard,,,
+"Wow, such an amazing concert. I'm sure the ticket price was worth it 🎵",4,en,mocking,heavy_sarcasm,musical_note,,,
+"Sure, because essential oils will cure everything 🕯️",4,en,mocking,light_sarcasm,candle,,,
+"Oh great, more dating apps. Because I wasn't lonely enough already 💔",4,en,mocking,heavy_sarcasm,broken_heart,,,
+"Wow, you're so adventurous with your airplane food ✈️",4,en,mocking,heavy_sarcasm,airplane,,,
+"Sure, let's solve mental health with inspirational memes 🖼️",4,en,mocking,heavy_sarcasm,frame_photo,,,
+"Oh perfect, another diet. Because self-hatred wasn't enough motivation already ⚖️",4,en,mocking,heavy_sarcasm,balance_scale,,,
+"Wow, such a luxury vacation. I'm sure it was totally worth going into debt for 🏖️",4,en,mocking,heavy_sarcasm,beach,,,
+"Sure, because yoga pants solve everything 🧘‍♀️",4,en,mocking,light_sarcasm,woman_meditation,,,
+"Oh great, more celebrity gossip. Because I wasn't shallow enough already 👑",4,en,mocking,heavy_sarcasm,crown,,,
+"Wow, you're so spiritual with your crystal collection 🔮",4,en,mocking,heavy_sarcasm,crystal_ball,,,
+"Sure, let's solve racism by posting black squares 🖤",4,en,mocking,heavy_sarcasm,black_heart,,,
+"Oh wow, I'm so excited for this amazing opportunity 🙄",4,en,mocking,,,sarcastic,negative,high
+"This is absolutely perfect, just what I needed today 😒",4,en,mocking,,,sarcastic,negative,high
+"How wonderful, another delay. My favorite thing ⏰",4,en,mocking,,,sarcastic,negative,high
+I'm so grateful for this terrible weather ☔,4,en,mocking,,,sarcastic,negative,high
+This food tastes amazing... said no one ever 😖,4,en,mocking,,,sarcastic,negative,high
+"Oh great, more work. Because I wasn't busy enough 💼",4,en,mocking,,,sarcastic,negative,medium
+"Sure, because this plan couldn't possibly fail 🤞",4,en,mocking,,,sarcastic,negative,medium
+"Wow, such a brilliant idea. I'm definitely impressed 💡",4,en,mocking,,,sarcastic,negative,high
+"Oh perfect, another meeting. Just what I needed 📅",4,en,mocking,,,sarcastic,negative,medium
+"Thanks for the help... oh wait, you didn't help 🙃",4,en,mocking,,,sarcastic,negative,high
+"This is so much fun, I could do this all day 😴",4,en,mocking,,,sarcastic,negative,high
+"Wow, you're so talented. Truly impressive 🎨",4,en,mocking,,,sarcastic,negative,high
+"Sure, because nothing says success like failure 🎯",4,en,mocking,,,sarcastic,negative,high
+"Oh joy, more traffic. My favorite pastime 🚦",4,en,mocking,,,sarcastic,negative,high
+Thanks for being on time... for once ⌚,4,en,mocking,,,sarcastic,negative,medium
+"Wow, such an original thought 💭",4,en,mocking,,,sarcastic,negative,high
+"Sure, because this will definitely work this time 🔄",4,en,mocking,,,sarcastic,negative,medium
+"Oh great, more emails. Because I love reading 📧",4,en,mocking,,,sarcastic,negative,medium
+"Wow, you're so smart. Did you figure that out yourself? 🧠",4,en,mocking,,,sarcastic,negative,high
+"Sure, let's add more complexity to an already complex problem ➕",4,en,mocking,,,sarcastic,negative,medium
+"Oh perfect, another update. Because stability is overrated 🔄",4,en,mocking,,,sarcastic,negative,medium
+"Wow, such a healthy choice. I'm inspired 🥗",4,en,mocking,,,sarcastic,negative,high
+"Sure, because social media solves everything 📱",4,en,mocking,,,sarcastic,negative,medium
+"Oh great, more notifications. My favorite distraction 🔔",4,en,mocking,,,sarcastic,negative,medium
+"Wow, you're so creative. Truly artistic 🎭",4,en,mocking,,,sarcastic,negative,high
+"Sure, let's solve world peace with a hashtag 🌍",4,en,mocking,,,sarcastic,negative,high
+"Oh perfect, another diet. Because I wasn't hungry enough 🥑",4,en,mocking,,,sarcastic,negative,medium
+"Wow, such luxury. I'm definitely jealous 💎",4,en,mocking,,,sarcastic,negative,high
+"Sure, because money buys happiness 💰",4,en,mocking,,,sarcastic,negative,medium
+"Oh great, more ads. Because I wasn't buying enough 🛒",4,en,mocking,,,sarcastic,negative,medium
+"Wow, you're so brave. Truly courageous 🛡️",4,en,mocking,,,sarcastic,negative,high
+"Sure, let's fix everything with duct tape 🔧",4,en,mocking,,,sarcastic,negative,high
+"Oh perfect, another app. Because I needed more screen time 📱",4,en,mocking,,,sarcastic,negative,medium
+"Wow, such an amazing view. I'm speechless 🏔️",4,en,mocking,,,sarcastic,negative,high
+"Sure, because this relationship is totally healthy 💔",4,en,mocking,,,sarcastic,negative,high
+"Oh great, more drama. Because life wasn't exciting enough 🎭",4,en,mocking,,,sarcastic,negative,medium
+"Wow, you're so successful. I'm inspired 📈",4,en,mocking,,,sarcastic,negative,high
+"Sure, let's solve climate change with plastic straws 🥤",4,en,mocking,,,sarcastic,negative,high
+"Oh perfect, another trend. Because I wasn't following enough 📈",4,en,mocking,,,sarcastic,negative,medium
+"Wow, such great customer service. I'm impressed ☎️",4,en,mocking,,,sarcastic,negative,high
+"Sure, because this investment is totally safe 📊",4,en,mocking,,,sarcastic,negative,medium
+"Oh great, more bills. Because I wasn't stressed enough 💸",4,en,mocking,,,sarcastic,negative,medium
+"Wow, you're so fit. Truly inspirational 💪",4,en,mocking,,,sarcastic,negative,high
+"Sure, let's solve hunger with food pictures 📸",4,en,mocking,,,sarcastic,negative,high
+"Oh perfect, another filter. Because reality wasn't good enough 📷",4,en,mocking,,,sarcastic,negative,medium
+"Wow, such an amazing concert. Totally worth the debt 🎵",4,en,mocking,,,sarcastic,negative,high
+"Sure, because this movie is Oscar-worthy 🎬",4,en,mocking,,,sarcastic,negative,medium
+"Oh great, more spoilers. Because I love surprises 🎁",4,en,mocking,,,sarcastic,negative,medium
+"Wow, you're so cultured. Truly sophisticated 🍷",4,en,mocking,,,sarcastic,negative,high
+"Sure, let's solve politics with memes 🖼️",4,en,mocking,,,sarcastic,negative,high
+"Oh perfect, another notification. Because I wasn't addicted enough 📲",4,en,mocking,,,sarcastic,negative,medium

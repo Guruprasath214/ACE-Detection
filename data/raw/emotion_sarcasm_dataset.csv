@@ -1,0 +1,52 @@
+text,label,language,category,emotion,emoji_sentiment,sarcasm_level
+"Oh wow, I'm so excited for this amazing opportunity 🙄",4,en,mocking,sarcastic,negative,high
+"This is absolutely perfect, just what I needed today 😒",4,en,mocking,sarcastic,negative,high
+"How wonderful, another delay. My favorite thing ⏰",4,en,mocking,sarcastic,negative,high
+"I'm so grateful for this terrible weather ☔",4,en,mocking,sarcastic,negative,high
+"This food tastes amazing... said no one ever 😖",4,en,mocking,sarcastic,negative,high
+"Oh great, more work. Because I wasn't busy enough 💼",4,en,mocking,sarcastic,negative,medium
+"Sure, because this plan couldn't possibly fail 🤞",4,en,mocking,sarcastic,negative,medium
+"Wow, such a brilliant idea. I'm definitely impressed 💡",4,en,mocking,sarcastic,negative,high
+"Oh perfect, another meeting. Just what I needed 📅",4,en,mocking,sarcastic,negative,medium
+"Thanks for the help... oh wait, you didn't help 🙃",4,en,mocking,sarcastic,negative,high
+"This is so much fun, I could do this all day 😴",4,en,mocking,sarcastic,negative,high
+"Wow, you're so talented. Truly impressive 🎨",4,en,mocking,sarcastic,negative,high
+"Sure, because nothing says success like failure 🎯",4,en,mocking,sarcastic,negative,high
+"Oh joy, more traffic. My favorite pastime 🚦",4,en,mocking,sarcastic,negative,high
+"Thanks for being on time... for once ⌚",4,en,mocking,sarcastic,negative,medium
+"Wow, such an original thought 💭",4,en,mocking,sarcastic,negative,high
+"Sure, because this will definitely work this time 🔄",4,en,mocking,sarcastic,negative,medium
+"Oh great, more emails. Because I love reading 📧",4,en,mocking,sarcastic,negative,medium
+"Wow, you're so smart. Did you figure that out yourself? 🧠",4,en,mocking,sarcastic,negative,high
+"Sure, let's add more complexity to an already complex problem ➕",4,en,mocking,sarcastic,negative,medium
+"Oh perfect, another update. Because stability is overrated 🔄",4,en,mocking,sarcastic,negative,medium
+"Wow, such a healthy choice. I'm inspired 🥗",4,en,mocking,sarcastic,negative,high
+"Sure, because social media solves everything 📱",4,en,mocking,sarcastic,negative,medium
+"Oh great, more notifications. My favorite distraction 🔔",4,en,mocking,sarcastic,negative,medium
+"Wow, you're so creative. Truly artistic 🎭",4,en,mocking,sarcastic,negative,high
+"Sure, let's solve world peace with a hashtag 🌍",4,en,mocking,sarcastic,negative,high
+"Oh perfect, another diet. Because I wasn't hungry enough 🥑",4,en,mocking,sarcastic,negative,medium
+"Wow, such luxury. I'm definitely jealous 💎",4,en,mocking,sarcastic,negative,high
+"Sure, because money buys happiness 💰",4,en,mocking,sarcastic,negative,medium
+"Oh great, more ads. Because I wasn't buying enough 🛒",4,en,mocking,sarcastic,negative,medium
+"Wow, you're so brave. Truly courageous 🛡️",4,en,mocking,sarcastic,negative,high
+"Sure, let's fix everything with duct tape 🔧",4,en,mocking,sarcastic,negative,high
+"Oh perfect, another app. Because I needed more screen time 📱",4,en,mocking,sarcastic,negative,medium
+"Wow, such an amazing view. I'm speechless 🏔️",4,en,mocking,sarcastic,negative,high
+"Sure, because this relationship is totally healthy 💔",4,en,mocking,sarcastic,negative,high
+"Oh great, more drama. Because life wasn't exciting enough 🎭",4,en,mocking,sarcastic,negative,medium
+"Wow, you're so successful. I'm inspired 📈",4,en,mocking,sarcastic,negative,high
+"Sure, let's solve climate change with plastic straws 🥤",4,en,mocking,sarcastic,negative,high
+"Oh perfect, another trend. Because I wasn't following enough 📈",4,en,mocking,sarcastic,negative,medium
+"Wow, such great customer service. I'm impressed ☎️",4,en,mocking,sarcastic,negative,high
+"Sure, because this investment is totally safe 📊",4,en,mocking,sarcastic,negative,medium
+"Oh great, more bills. Because I wasn't stressed enough 💸",4,en,mocking,sarcastic,negative,medium
+"Wow, you're so fit. Truly inspirational 💪",4,en,mocking,sarcastic,negative,high
+"Sure, let's solve hunger with food pictures 📸",4,en,mocking,sarcastic,negative,high
+"Oh perfect, another filter. Because reality wasn't good enough 📷",4,en,mocking,sarcastic,negative,medium
+"Wow, such an amazing concert. Totally worth the debt 🎵",4,en,mocking,sarcastic,negative,high
+"Sure, because this movie is Oscar-worthy 🎬",4,en,mocking,sarcastic,negative,medium
+"Oh great, more spoilers. Because I love surprises 🎁",4,en,mocking,sarcastic,negative,medium
+"Wow, you're so cultured. Truly sophisticated 🍷",4,en,mocking,sarcastic,negative,high
+"Sure, let's solve politics with memes 🖼️",4,en,mocking,sarcastic,negative,high
+"Oh perfect, another notification. Because I wasn't addicted enough 📲",4,en,mocking,sarcastic,negative,medium

@@ -1,0 +1,11 @@
+torch>=1.12.0
+transformers>=4.0.0
+scikit-learn>=0.24.0
+pandas>=1.2.0
+numpy>=1.19.0
+langdetect>=1.0.9
+emoji>=1.6.0
+indic-transliteration>=1.7.6  # optional: only if transliteration desired
+datasets>=2.0.0
+sentencepiece>=0.1.95
+tokenizers>=0.12.0

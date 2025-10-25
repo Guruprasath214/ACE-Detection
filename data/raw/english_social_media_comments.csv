@@ -1,0 +1,36 @@
+text,label,language,category
+"Hey everyone, having a great day! ☀️",0,en,normal
+"This weather is amazing, perfect for a walk!",0,en,normal
+"Just finished an awesome book, highly recommend it!",0,en,normal
+"Love spending time with family and friends 😊",0,en,normal
+"Great workout session today, feeling energized!",0,en,normal
+"You are such an idiot, can't believe you said that!",1,en,bullying
+"Why are you so stupid? Everyone knows you're wrong.",1,en,bullying
+"You're worthless and nobody likes you.",1,en,bullying
+"Stop being such a loser, get a life!",1,en,bullying
+"You're pathetic, just give up already.",1,en,bullying
+"Hey sexy, want to meet up tonight? 😉",2,en,sexual_harassment
+"Your body is so hot, I can't stop staring.",2,en,sexual_harassment
+"Come on baby, let's have some fun together.",2,en,sexual_harassment
+"You're looking fine today, want my number?",2,en,sexual_harassment
+"Damn girl, those curves are killing me!",2,en,sexual_harassment
+"Women belong in the kitchen, not in leadership roles.",3,en,women_harassment
+"You're just a dumb blonde stereotype.",3,en,women_harassment
+"Girls can't drive, that's why accidents happen.",3,en,women_harassment
+"She's too emotional to make rational decisions.",3,en,women_harassment
+"Women are too weak for real work.",3,en,women_harassment
+"Oh sure, because you're so much better than everyone else 🙄",4,en,mocking
+"Wow, what an original idea... said no one ever.",4,en,mocking
+"You're so smart, you figured that out all by yourself!",4,en,mocking
+"Congratulations on your achievement... oh wait, you didn't achieve anything.",4,en,mocking
+"Keep talking, maybe someday you'll say something intelligent.",4,en,mocking
+"I'll break your legs if you don't shut up!",5,en,threats
+"You better watch your back, I'm coming for you.",5,en,threats
+"One more word and you'll regret it.",5,en,threats
+"I'm going to make you pay for what you did.",5,en,threats
+"You won't be safe anywhere, I'll find you.",5,en,threats
+"I hate all immigrants, they should go back where they came from!",6,en,hate_speech
+"Those people are inferior and don't belong here.",6,en,hate_speech
+"Religious fanatics are destroying our society.",6,en,hate_speech
+"Racial minorities are the cause of all our problems.",6,en,hate_speech
+"LGBTQ+ people are unnatural and wrong.",6,en,hate_speech

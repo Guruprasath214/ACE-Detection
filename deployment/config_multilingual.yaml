@@ -1,0 +1,33 @@
+ # Multilingual ACE config
+models:
+  bert:
+    model_name: "bert-base-multilingual-cased"  # default; user can swap to 'ai4bharat/indic-bert' or other Indic models
+    max_length: 256
+    batch_size: 16
+    learning_rate: 2e-5
+    num_epochs: 3
+    num_classes: 2
+  cnn:
+    embedding_dim: 300
+    num_filters: 100
+    filter_sizes: [3,4,5]
+    dropout_rate: 0.5
+    learning_rate: 0.001
+    num_epochs: 10
+  emotion:
+    model_name: "j-hartmann/emotion-english-distilroberta-base"
+  ensemble:
+    weights:
+      bert: 0.5
+      cnn: 0.2
+      emotion: 0.3
+    decision_threshold: 0.5
+    hidden_dim: 64
+    num_classes: 2
+data:
+  languages: ["en", "ta", "ml"]
+  max_sequence_length: 256
+  min_text_length: 1
+  max_text_length: 2000
+  transliterate: false  # set true to transliterate Tamil/Malayalam to Latin
+  language_column: language  # optional column name in CSV containing language tags

@@ -1,0 +1,108 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: ace-detection-api
+  labels:
+    app: ace-detection-api
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: ace-detection-api
+  template:
+    metadata:
+      labels:
+        app: ace-detection-api
+    spec:
+      containers:
+      - name: ace-api
+        image: ace-detection:latest
+        ports:
+        - containerPort: 8000
+        env:
+        - name: PYTHONPATH
+          value: "/app"
+        - name: PYTHONUNBUFFERED
+          value: "1"
+        resources:
+          requests:
+            memory: "1Gi"
+            cpu: "500m"
+          limits:
+            memory: "2Gi"
+            cpu: "1000m"
+        livenessProbe:
+          httpGet:
+            path: /health
+            port: 8000
+          initialDelaySeconds: 30
+          periodSeconds: 10
+        readinessProbe:
+          httpGet:
+            path: /health
+            port: 8000
+          initialDelaySeconds: 5
+          periodSeconds: 5
+        volumeMounts:
+        - name: models-storage
+          mountPath: /app/models/saved
+        - name: data-storage
+          mountPath: /app/data
+        - name: logs-storage
+          mountPath: /app/logs
+      volumes:
+      - name: models-storage
+        persistentVolumeClaim:
+          claimName: ace-models-pvc
+      - name: data-storage
+        persistentVolumeClaim:
+          claimName: ace-data-pvc
+      - name: logs-storage
+        persistentVolumeClaim:
+          claimName: ace-logs-pvc
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: ace-detection-service
+spec:
+  selector:
+    app: ace-detection-api
+  ports:
+  - protocol: TCP
+    port: 80
+    targetPort: 8000
+  type: LoadBalancer
+---
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  name: ace-models-pvc
+spec:
+  accessModes:
+    - ReadWriteOnce
+  resources:
+    requests:
+      storage: 10Gi
+---
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  name: ace-data-pvc
+spec:
+  accessModes:
+    - ReadWriteOnce
+  resources:
+    requests:
+      storage: 5Gi
+---
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  name: ace-logs-pvc
+spec:
+  accessModes:
+    - ReadWriteOnce
+  resources:
+    requests:
+      storage: 2Gi
